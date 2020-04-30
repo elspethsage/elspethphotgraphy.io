@@ -730,22 +730,22 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: #707071 !important;
+		color: #000000 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #707071 !important;
+		color: #000000 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #707071 !important;
+		color: #000000 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #707071 !important;
+		color: #000000 !important;
 		opacity: 1.0;
 	}
 

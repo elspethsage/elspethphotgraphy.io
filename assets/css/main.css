@@ -586,10 +586,10 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #34a58e;
+		background: #ffffff;
 		border: 0;
 		border-radius: 0;
-		color: #a0a0a1;
+		color: #000101;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
